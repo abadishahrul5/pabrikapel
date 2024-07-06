@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Vida';
+    src: local('Vida 32 Pro'), local('Vida-32-Pro'),
+        url('Vida32Pro.woff2') format('woff2'),
+        url('Vida32Pro.woff') format('woff'),
+        url('Vida32Pro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
